@@ -11,5 +11,3 @@ I’m an Information Systems student also as a web and application developer who
 ![](https://github-readme-stats.vercel.app/api?username=OoMyGit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OoMyGit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OoMyGit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
